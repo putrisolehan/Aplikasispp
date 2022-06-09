@@ -1,0 +1,10 @@
+h1		{
+	font-family: serif;
+	font-variant: small-caps;
+	font-style: italic;
+	color: lightblue;
+}
+body	{
+	background-color: tomato ;
+	background-image: url(putri/ayang.png);
+}
